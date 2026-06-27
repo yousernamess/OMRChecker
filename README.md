@@ -1,5 +1,6 @@
 # OMRChecker
 
+**This is CLI version, please let me know if this is useful for you and whether anyone is interested in a fully deployed webapp**
 **An easy-to-use 4-step process that works with any custom OMR sheet** -- just add 4 black square markers to the corners of your sheet, calibrate once, and read unlimited scanned sheets automatically.
 
 ## How It Works (4 Steps)
